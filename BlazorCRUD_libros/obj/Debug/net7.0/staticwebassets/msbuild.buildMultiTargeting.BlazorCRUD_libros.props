@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorCRUD_libros.props" />
+</Project>
